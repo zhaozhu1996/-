@@ -1,6 +1,9 @@
 public class MaximumSubarray53 {
     public static int maxSubArray(int[] nums) {
 
+        /***
+         * 前面的和大于0则继续往后加，小于0则直接抛弃
+         */
         int ans = nums[0];
         int sum = 0;
         for(int num: nums) {
