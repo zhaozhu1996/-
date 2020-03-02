@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a366b10-6e18-4e27-a0fe-8e7b8058f967" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/MaximumSubarray53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumSubarray53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniquePaths62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniquePaths63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -46,16 +53,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximumSubarray53">
+  <component name="RunManager" selected="Application.UniquePaths63">
     <configuration name="FindFirstAndLastPositionOfElementInSortedArray34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindFirstAndLastPositionOfElementInSortedArray34" />
-      <module name="算法" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestPalindromicSubstring" />
       <module name="算法" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,8 +75,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String2Integer8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2Integer8" />
+    <configuration name="UniquePaths62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniquePaths62" />
+      <module name="算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniquePaths63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniquePaths63" />
       <module name="算法" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniquePaths63" />
+        <item itemvalue="Application.UniquePaths62" />
         <item itemvalue="Application.MaximumSubarray53" />
         <item itemvalue="Application.SearchInRotatedSortedArray33" />
         <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray34" />
-        <item itemvalue="Application.LongestPalindromicSubstring" />
-        <item itemvalue="Application.String2Integer8" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +114,8 @@
       <workItem from="1582510221712" duration="4583000" />
       <workItem from="1582597763062" duration="2549000" />
       <workItem from="1582682874660" duration="4314000" />
-      <workItem from="1582771986583" duration="3826000" />
+      <workItem from="1582771986583" duration="4504000" />
+      <workItem from="1583114550986" duration="4552000" />
     </task>
     <task id="LOCAL-00001" summary="重新开始的算法练习">
       <created>1562385393162</created>
@@ -144,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582776363227</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="子序列最大累加值">
+      <created>1582776427964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582776427964</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +213,11 @@
           <url>file://$PROJECT_DIR$/src/SearchInRotatedSortedArray33.java</url>
           <line>15</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UniquePaths63.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
